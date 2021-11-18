@@ -1,0 +1,519 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.7.7)  17 NOV 2021 23:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**titlepage.tex
+(./titlepage.tex
+LaTeX2e <2018-12-01>
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 	\begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+! Undefined control sequence.
+l.5 		\includegraphics
+                      [scale = 0.05]{../latex/images/DreamTeam.png}\\[1.5cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+! Undefined control sequence.
+l.6 \Huge
+          \textsc{Candidatura per il capitolato 4 \doctitle{}}\\ [0.75cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+<argument> ...atura per il capitolato 4 \doctitle 
+                                                  {}
+l.6 ...andidatura per il capitolato 4 \doctitle{}}
+                                                  \\ [0.75cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (65.08304pt too wide) in paragraph at lines 6--6
+ []\OT1/cmr/m/sc/10 Candidatura 
+ []
+
+
+Overfull \hbox (17.17769pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 per 
+ []
+
+
+Overfull \hbox (8.1555pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 il 
+ []
+
+
+Overfull \hbox (24.42207pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 capi- 
+ []
+
+
+Overfull \hbox (16.04434pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 to- 
+ []
+
+
+Overfull \hbox (22.86653pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 lato 
+ []
+
+
+Overfull \hbox (5.52773pt too wide) in paragraph at lines 6--6
+ \OT1/cmr/m/sc/10 4 
+ []
+
+! Undefined control sequence.
+l.7 \Large
+           \textsf{A.A. 2021-2022} \\ [1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (18.88895pt too wide) in paragraph at lines 7--7
+ []\OT1/cmss/m/n/10 A.A. 
+ []
+
+
+Overfull \hbox (23.33339pt too wide) in paragraph at lines 7--7
+ \OT1/cmss/m/n/10 2021- 
+ []
+
+
+Overfull \hbox (20.00006pt too wide) in paragraph at lines 7--7
+ \OT1/cmss/m/n/10 2022 
+ []
+
+! Undefined control sequence.
+l.10 \Large
+            \textsl{Componenti del gruppo:} \\[0.25cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (53.33347pt too wide) in paragraph at lines 10--10
+ []\OT1/cmr/m/sl/10 Componenti 
+ []
+
+
+Overfull \hbox (12.7778pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/sl/10 del 
+ []
+
+
+Overfull \hbox (33.77328pt too wide) in paragraph at lines 10--10
+ \OT1/cmr/m/sl/10 gruppo: 
+ []
+
+! Undefined control sequence.
+l.11 \Large
+            \textsf{Edoardo Pavan, matr. 1201117} \\ [0.1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (34.25008pt too wide) in paragraph at lines 11--11
+ []\OT1/cmss/m/n/10 Edoardo 
+ []
+
+
+Overfull \hbox (14.25002pt too wide) in paragraph at lines 11--11
+ \OT1/cmss/m/n/10 Pa- 
+ []
+
+
+Overfull \hbox (17.36116pt too wide) in paragraph at lines 11--11
+ \OT1/cmss/m/n/10 van, 
+ []
+
+
+Overfull \hbox (22.55562pt too wide) in paragraph at lines 11--11
+ \OT1/cmss/m/n/10 matr. 
+ []
+
+
+Overfull \hbox (35.0001pt too wide) in paragraph at lines 11--11
+ \OT1/cmss/m/n/10 1201117 
+ []
+
+! Undefined control sequence.
+l.12 \Large
+            \textsf{Francesco Protopapa, matr. 1221598} \\ [0.1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (40.97229pt too wide) in paragraph at lines 12--12
+ []\OT1/cmss/m/n/10 Francesco 
+ []
+
+
+Overfull \hbox (18.13893pt too wide) in paragraph at lines 12--12
+ \OT1/cmss/m/n/10 Pro- 
+ []
+
+
+Overfull \hbox (31.3334pt too wide) in paragraph at lines 12--12
+ \OT1/cmss/m/n/10 topapa, 
+ []
+
+
+Overfull \hbox (22.55562pt too wide) in paragraph at lines 12--12
+ \OT1/cmss/m/n/10 matr. 
+ []
+
+
+Overfull \hbox (35.0001pt too wide) in paragraph at lines 12--12
+ \OT1/cmss/m/n/10 1221598 
+ []
+
+! Undefined control sequence.
+l.13 \Large
+            \textsf{Greta Cavedon, matr. 1123054} \\ [0.1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (22.9445pt too wide) in paragraph at lines 13--13
+ []\OT1/cmss/m/n/10 Greta 
+ []
+
+
+Overfull \hbox (23.58337pt too wide) in paragraph at lines 13--13
+ \OT1/cmss/m/n/10 Cave- 
+ []
+
+
+Overfull \hbox (18.11115pt too wide) in paragraph at lines 13--13
+ \OT1/cmss/m/n/10 don, 
+ []
+
+
+Overfull \hbox (22.55562pt too wide) in paragraph at lines 13--13
+ \OT1/cmss/m/n/10 matr. 
+ []
+
+
+Overfull \hbox (35.0001pt too wide) in paragraph at lines 13--13
+ \OT1/cmss/m/n/10 1123054 
+ []
+
+! Undefined control sequence.
+l.14 \Large
+            \textsf{Luciano Wu, matr. 1224452} \\ [0.1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (32.38895pt too wide) in paragraph at lines 14--14
+ []\OT1/cmss/m/n/10 Luciano 
+ []
+
+
+Overfull \hbox (17.11115pt too wide) in paragraph at lines 14--14
+ \OT1/cmss/m/n/10 Wu, 
+ []
+
+
+Overfull \hbox (22.55562pt too wide) in paragraph at lines 14--14
+ \OT1/cmss/m/n/10 matr. 
+ []
+
+
+Overfull \hbox (35.0001pt too wide) in paragraph at lines 14--14
+ \OT1/cmss/m/n/10 1224452 
+ []
+
+! Undefined control sequence.
+l.15 \Large
+            \textsf{Matteo Basso, matr. 1227134} \\ [0.1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (30.2223pt too wide) in paragraph at lines 15--15
+ []\OT1/cmss/m/n/10 Matteo 
+ []
+
+
+Overfull \hbox (26.91672pt too wide) in paragraph at lines 15--15
+ \OT1/cmss/m/n/10 Basso, 
+ []
+
+
+Overfull \hbox (22.55562pt too wide) in paragraph at lines 15--15
+ \OT1/cmss/m/n/10 matr. 
+ []
+
+
+Overfull \hbox (35.0001pt too wide) in paragraph at lines 15--15
+ \OT1/cmss/m/n/10 1227134 
+ []
+
+! Undefined control sequence.
+l.16 \Large
+            \textsf{Michele Gatto, matr. 1224458} \\ [0.1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (32.02782pt too wide) in paragraph at lines 16--16
+ []\OT1/cmss/m/n/10 Michele 
+ []
+
+
+Overfull \hbox (26.47229pt too wide) in paragraph at lines 16--16
+ \OT1/cmss/m/n/10 Gatto, 
+ []
+
+
+Overfull \hbox (22.55562pt too wide) in paragraph at lines 16--16
+ \OT1/cmss/m/n/10 matr. 
+ []
+
+
+Overfull \hbox (35.0001pt too wide) in paragraph at lines 16--16
+ \OT1/cmss/m/n/10 1224458 
+ []
+
+! Undefined control sequence.
+l.17 \Large
+            \textsf{Pietro Villatora, matr. 1224443} \\ [0.1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (25.25005pt too wide) in paragraph at lines 17--17
+ []\OT1/cmss/m/n/10 Pietro 
+ []
+
+
+Overfull \hbox (14.77779pt too wide) in paragraph at lines 17--17
+ \OT1/cmss/m/n/10 Vil- 
+ []
+
+
+Overfull \hbox (10.52779pt too wide) in paragraph at lines 17--17
+ \OT1/cmss/m/n/10 la- 
+ []
+
+
+Overfull \hbox (19.33339pt too wide) in paragraph at lines 17--17
+ \OT1/cmss/m/n/10 tora, 
+ []
+
+
+Overfull \hbox (22.55562pt too wide) in paragraph at lines 17--17
+ \OT1/cmss/m/n/10 matr. 
+ []
+
+
+Overfull \hbox (35.0001pt too wide) in paragraph at lines 17--17
+ \OT1/cmss/m/n/10 1224443 
+ []
+
+! Undefined control sequence.
+<argument>  email \href 
+                        {mailto:me@somewhere.com}{me@somewhere.com} 
+l.19 ...re.com}{me@somewhere.com}                }
+                                                  
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (23.33339pt too wide) in paragraph at lines 19--22
+ \OT1/cmr/m/sl/10 email 
+ []
+
+
+Overfull \hbox (207.3893pt too wide) in paragraph at lines 19--22
+ \OT1/cmr/m/sl/10 mailto:me@somewhere.comme@somewhere.com 
+ []
+
+! Undefined control sequence.
+l.23 		\includegraphics
+                       [scale = 0.055]{../latex/images/logoUniPD.png}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no U in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no P in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> titlepage.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 15 strings out of 492616
+ 227 string characters out of 6129482
+ 59219 words of memory out of 5000000
+ 4032 multiletter control sequences out of 15000+600000
+ 4599 words of font info for 17 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 13i,1n,10p,112b,122s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
