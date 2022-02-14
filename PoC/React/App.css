@@ -1,0 +1,7 @@
+.card-class{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 80%;
+  margin: 2em 10%;
+}
